@@ -1,6 +1,6 @@
 let dynamo = document.querySelector('body');
 
-let colors = ['linear-gradient(240deg, red, pink)', 'linear-gradient(240deg, teal, aqua)'];
+let colors = ['linear-gradient(240deg, red, pink)', 'linear-gradient(240deg, teal, aqua)', 'linear-gradient(240deg, blue, violet)'];
 
 let count = 0;
 

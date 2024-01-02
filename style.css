@@ -1,4 +1,6 @@
-
+body {
+    background: linear-gradient(240deg, blue, violet);
+}
 @media (max-width: 600px) {
    .dot {
     display: none;
