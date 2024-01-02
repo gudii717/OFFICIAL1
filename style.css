@@ -1,0 +1,14 @@
+
+@media (max-width: 600px) {
+   .dot {
+    display: none;
+}
+}
+
+#intro {
+    padding: 60px;
+}
+
+.sect2 {
+    margin-top: 100px;
+}
